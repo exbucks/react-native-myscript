@@ -1,0 +1,39 @@
+{
+  "_from": "github:peterfreelance/react-native-myscript",
+  "_id": "react-native-myscript@1.0.0",
+  "_inBundle": false,
+  "_location": "/react-native-myscript",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "peterfreelance/react-native-myscript",
+    "rawSpec": "peterfreelance/react-native-myscript",
+    "saveSpec": "github:peterfreelance/react-native-myscript",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:peterfreelance/react-native-myscript#5969de268829cb20f503993880db8dc3f7316a51",
+  "_spec": "peterfreelance/react-native-myscript",
+  "_where": "/Volumes/Work/Projects/Drawer",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-myscript",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
