@@ -42,4 +42,8 @@ import RNMyscript from 'react-native-myscript';
 // TODO: What to do with the module?
 RNMyscript;
 ```
+
+
+https://github.com/frostney/react-native-create-library
+
   
